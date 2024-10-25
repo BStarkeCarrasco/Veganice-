@@ -1,0 +1,14 @@
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\bin\Debug\net8.0\_veg.exe
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\bin\Debug\net8.0\_veg.deps.json
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\bin\Debug\net8.0\_veg.runtimeconfig.json
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\bin\Debug\net8.0\_veg.dll
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\bin\Debug\net8.0\_veg.pdb
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\_veg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\_veg.AssemblyInfoInputs.cache
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\_veg.AssemblyInfo.cs
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\_veg.csproj.CoreCompileInputs.cache
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\_veg.dll
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\refint\_veg.dll
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\_veg.pdb
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\_veg.genruntimeconfig.cache
+C:\Users\StarkeCarrascoBarbar\source\repos\_veg\obj\Debug\net8.0\ref\_veg.dll
